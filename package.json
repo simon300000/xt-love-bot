@@ -1,0 +1,24 @@
+{
+  "name": "xt-love-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xt.js",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simon300000/xt-love-bot.git"
+  },
+  "author": "simon3000 <simon3000@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simon300000/xt-love-bot/issues"
+  },
+  "homepage": "https://github.com/simon300000/xt-love-bot#readme",
+  "dependencies": {
+    "cq-websocket": "^2.1.1"
+  }
+}
