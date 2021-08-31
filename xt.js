@@ -1,4 +1,4 @@
-import { CQWebSocket } from 'cq-websocket'
+const { CQWebSocket } = require('cq-websocket')
 
 const TARGET_GROUP = 536587198
 const TARGET_QQ = 3054389483
